@@ -1,0 +1,11 @@
+/* Slideshow */
+
+#slideshow {
+  width: 412px;
+  overflow-x: hidden;
+}
+
+#slides {
+  display: flex;
+  transition-property: transform;
+}
